@@ -1,0 +1,10 @@
+{
+    "name": "thestonefox.test.prefabrilous",
+    "displayName": "Prefabrilous",
+    "description": "The prefab extension",
+    "version": "1.0.0",
+    "unity": "2018.3",
+    "dependencies": {
+        "thestonefox.test.zinpipa": "1.0.0"
+    }
+}
